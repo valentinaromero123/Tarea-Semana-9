@@ -1,0 +1,8 @@
+Al ejecutar node server.js, Node.js inicia la aplicación y pone en funcionamiento el servidor para que pueda recibir
+solicitudes de los usuarios.
+
+En la terminal aparece un mensaje indicando que el servidor está en ejecución y el puerto en el que está escuchando:
+ "Servidor ejecutándose en el puerto 3000".
+
+Al visitar la ruta /estado desde el navegador, el servidor responde con un mensaje o una información que confirma
+que la aplicación está funcionando correctamente y que el servicio se encuentra activo.
